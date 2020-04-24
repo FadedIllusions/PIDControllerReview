@@ -1,4 +1,4 @@
-# PIDController_001_PControl
+# PIDControllerReview
 
 For a more inclusive description of PID controllers and how they relate to aerial robotics, please see my previous [ReadMe](https://github.com/FadedIllusions/AAE_Notebook_028_PIDControl/blob/master/README.md) on the concept.
 
